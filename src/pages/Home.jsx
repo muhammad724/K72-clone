@@ -1,7 +1,7 @@
 import React from 'react'
-import Video from '../component/home/video';
-import HomeBottom from '../component/home/HomeBottom';
-import HomeHero from '../component/home/HomeHero';
+import Video from '../component/home/Video.jsx';
+import HomeBottom from '../component/home/HomeBottom.jsx';
+import HomeHero from '../component/home/HomeHero.jsx';
 
 function Home(){
     return(
